@@ -258,7 +258,7 @@ form {
 }
 
 img {
-  width: 10%;
+  width: 5%;
   max-width: 10%;
 }
 
@@ -315,7 +315,7 @@ Full-Width Styles
 
 #project_tagline {
   color: #fff;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
@@ -367,7 +367,7 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  padding-top: 80px;
 }
 
 #footer_wrap {
@@ -395,7 +395,7 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 32px;
+  font-size: 60px;
   }
 
   h1 {
@@ -415,17 +415,17 @@ Small Device Styles
   }
 
   h5 {
-    font-size: 30px;
+    font-size: 40px;
   }
 
   h6 {
-    font-size: 30px;
+    font-size: 40px;
   }
 
   code, pre {
     min-width: 320px;
     max-width: 480px;
-    font-size: 11px;
+    font-size: 50px;
   }
 
 }
