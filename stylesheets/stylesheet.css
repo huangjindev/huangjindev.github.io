@@ -259,7 +259,7 @@ form {
 
 img {
   width: 6%;
-  max-width: 10%;
+  max-width: 20%;
 }
 
 /*******************************************************************************
@@ -272,7 +272,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 1280px;
+  max-width: 1024px;
   padding: 40px 20px;
   margin: 0 auto;
 }
@@ -367,7 +367,7 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  padding-top: 10px;
 }
 
 #footer_wrap {
@@ -380,7 +380,7 @@ Full-Width Styles
 Small Device Styles
 *******************************************************************************/
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 200px) {
   body {
     font-size:35px;
   }
@@ -390,7 +390,7 @@ Small Device Styles
   }
 
   .inner {
-    min-width: 200px;
+    min-width: 100px;
     max-width: 200px;
   }
 
@@ -423,8 +423,8 @@ Small Device Styles
   }
 
   code, pre {
-    min-width: 300px;
-    max-width: 400px;
+    min-width: 100px;
+    max-width: 200px;
     font-size: 30px;
   }
 
