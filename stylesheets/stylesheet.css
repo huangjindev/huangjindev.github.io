@@ -423,8 +423,8 @@ Small Device Styles
   }
 
   code, pre {
-    min-width: 100px;
-    max-width: 200px;
+    min-width: 400px;
+    max-width: 500px;
     font-size: 30px;
   }
 
