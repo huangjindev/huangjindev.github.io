@@ -59,7 +59,7 @@ body {
   box-sizing: border-box;
   color:#888888;
   background: #000000;
-  font-size: 50px;
+  font-size: 40px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 2;
   -webkit-font-smoothing: antialiased;
@@ -74,30 +74,30 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 90px;
+  font-size: 50px;
   font-weight: 700;
 }
 
 h2 {
   padding-bottom: 20px;
-  font-size: 80px;
+  font-size: 50px;
   background: url('../images/bg_hr.png') repeat-x bottom;
 }
 
 h3 {
-  font-size: 80px;
+  font-size: 40px;
 }
 
 h4 {
-  font-size: 80px;
+  font-size: 40px;
 }
 
 h5 {
-  font-size: 80px;
+  font-size: 40px;
 }
 
 h6 {
-  font-size: 80px;
+  font-size: 40px;
 }
 
 p {
@@ -258,7 +258,7 @@ form {
 }
 
 img {
-  width: 5%;
+  width: 6%;
   max-width: 10%;
 }
 
@@ -272,7 +272,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 1024px;
+  max-width: 1280px;
   padding: 40px 20px;
   margin: 0 auto;
 }
@@ -308,7 +308,7 @@ Full-Width Styles
 #project_title {
   margin: 0;
   color: #fff;
-  font-size: 42px;
+  font-size: 40px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
@@ -390,12 +390,12 @@ Small Device Styles
   }
 
   .inner {
-    min-width: 320px;
-    max-width: 480px;
+    min-width: 480px;
+    max-width: 640px;
   }
 
   #project_title {
-  font-size: 60px;
+  font-size: 50px;
   }
 
   h1 {
@@ -423,9 +423,9 @@ Small Device Styles
   }
 
   code, pre {
-    min-width: 320px;
-    max-width: 480px;
-    font-size: 50px;
+    min-width: 480px;
+    max-width: 640px;
+    font-size: 40px;
   }
 
 }
