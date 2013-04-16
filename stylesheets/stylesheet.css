@@ -74,30 +74,30 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 35px;
   font-weight: 700;
 }
 
 h2 {
   padding-bottom: 20px;
-  font-size: 35px;
+  font-size: 30px;
   background: url('../images/bg_hr.png') repeat-x bottom;
 }
 
 h3 {
-  font-size: 35px;
-}
-
-h4 {
-  font-size: 30px;
-}
-
-h5 {
   font-size: 25px;
 }
 
-h6 {
+h4 {
   font-size: 20px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h6 {
+  font-size: 15px;
 }
 
 p {
@@ -327,7 +327,7 @@ Full-Width Styles
   z-index: 10;
   bottom: -40px;
   right: 0;
-  height: 70px;
+  height: 40px;
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
 
@@ -395,7 +395,7 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 45px;
+  font-size: 35px;
   }
 
   h1 {
